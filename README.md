@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/dingxuan2000/Project110_Lab5.svg?branch=master)](https://travis-ci.com/dingxuan2000/Project110_Lab5)
